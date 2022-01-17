@@ -1,5 +1,5 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="r5x"
-download_link="https://drive.google.com/u/0/uc?id=1sSsrDVCPEz5YvKHKAQ9Yx7c7mQ22UJ3Q&export=download"
+device="guacamole"
+download_link="https://drive.google.com/u/0/uc?id=1s8VS7ceToSqTLnWA323Oor9zgUDmn1p5&export=download"
