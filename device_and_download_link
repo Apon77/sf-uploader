@@ -1,5 +1,4 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-device="alioth"
-download_link="https://ppui.sidgdrive.workers.dev/0:/PixelPlusUI_5.0_alioth-12.1-20220401-1014-OFFICIAL.zip"
+download_link="https://drive.google.com/u/0/uc?id=1716j9dr7D2y6vIX_SRBf0M4GepF2e_zr&export=download"
