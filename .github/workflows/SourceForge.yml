@@ -37,4 +37,4 @@ jobs:
       run: |
             source device_and_download_link
 
-            rsync -vhcP -e ssh PixelPlusUI* apon77@frs.sourceforge.net:/home/frs/project/mido-crdroidandroid-apon77/
+            rsync -vhcP -e ssh crDroidAndroid* apon77@frs.sourceforge.net:/home/frs/project/mido-crdroidandroid-apon77/
