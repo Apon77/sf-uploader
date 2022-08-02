@@ -1,4 +1,4 @@
 #device is the folder where rom will be uploaded in sourceforge, like "mido" or "RMX1851"
 #download_link is the link from where script will download the build and upload that file in sourceforge. Put link inside that ""
 
-download_link="https://roms.cirrus-ci.workers.dev/0:/mido/crDroidAndroid-12.1-20220716-mido-v8.7.zip"
+download_link="https://roms.cirrus-ci.workers.dev/0:/mido/crDroidAndroid-12.1-20220802-mido-v8.7.zip"
